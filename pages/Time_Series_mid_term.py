@@ -144,5 +144,3 @@ st.write("")
 # Disable the PyplotGlobalUseWarning
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-# Comment experiment
-# Comment experiment 2
